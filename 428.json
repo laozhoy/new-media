@@ -1,4 +1,10 @@
 [{   
+    "key": "okzy",
+    "name": "OK 资源网",
+     "api": 
+     "https://cj.okzy.tv/inc/apickm3u8s.php",
+      "isActive": true
+}, {
     "key": "mahuazy",
     "name": "麻花资源",
     "api": 
@@ -10,13 +16,31 @@
       "api":
      "https://www.mhapi123.com/inc/ldg_api_all.php",
      "isActive": true
-  }, {
+  },  {
+	"key": "zuidazy",
+	"name": "最大资源网",
+	"api": 
+        "http://www.zdziyuan.com/inc/api_zuidam3u8.php",
+	"isActive": true
+}, {
+	"key": "zuixinzy",
+	"name": "最新资源",
+	"api": 
+        "https://api.zuixinapi.com/inc/apixinm3u8.php",
+	"isActive": true
+}, {
     "key": "88zyw",
     "name": "88 影视资源站",
     "api": 
-    "http://www.88zyw.net/inc/api.php",
-      "isActive": true
+     "http://www.88zyw.net/inc/api.php",
+     "isActive": true
   },  {
+	"key": "88zy",
+	"name": "88 影视资源站",
+	"api": 
+        "https://www.88zyw.xyz/inc/mzp.php",
+	"isActive": true
+},  {
     "key": "apibdzy",
     "name": "百度云资源",
     "api": 
@@ -29,6 +53,11 @@
     "http://cj.123ku2.com:12315/inc/api.php",
     "isActive": true
   },   {
+	"key": "123ku",
+	"name": "123 资源备",
+	"api": "https://www.123ku.com/inc/sea123kum3u8.php",
+	"isActive": true
+ },  {
     "key": "voooe",
     "name": "123资源网",
     "api":
@@ -53,7 +82,12 @@
     "http://cj.bajiecaiji.com/inc/api.php",
     "isActive": true
   },  {
-   
+	"key": "bjy",
+	"name": "八戒云",
+	"api": 
+       "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+	"isActive": true
+},  {
     "key": "subo988",
     "name": "速播资源站",
     "api": 
@@ -72,6 +106,12 @@
     "http://cj.1156zy.com/inc/api.php",
     "isActive": true
   },   {
+	"key": "605",
+	"name": "605 资源网",
+	"api": 
+        "http://www.605zy.co/inc/605m3u8.php",
+	"isActive": true
+  }, {
     "key": "leduozy",
     "name": "乐多资源",
     "api":
@@ -120,12 +160,24 @@
     "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
     "isActive": true
   },  {
+	"key": "tky",
+	"name": "天空云",
+	"api":
+        "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
+	"isActive": true
+    },  {
     "key": "kuaibozy",
     "name": "快播资源",
     "api": 
     "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
     "isActive": true
-  }, {
+  },  {
+	"key": "kuaibo",
+	"name": "快播云",
+	"api": 
+      "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+	"isActive": true
+  },  {
     "key": "lebo",
     "name": "乐播电影网",
     "api": 
